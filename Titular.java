@@ -10,6 +10,8 @@ public class Titular {
 		private String telefono;
 		private int edad;
 		private String descripcion;
+		private boolean decision;
+		
 
 		public Titular(String dni, int edad){
 		}
@@ -78,8 +80,10 @@ public class Titular {
 			nombre=null;
 			apellido=null;
 			telefono=null;
-		}
+		
 	public void saludar(){
 		System.out.println("Hola");
 	}
-
+	public void adios(){
+	}
+		}
