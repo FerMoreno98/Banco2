@@ -11,7 +11,8 @@ public class Titular {
 		private int edad;
 		private String descripcion;
 
-
+		public Titular(String dni, int edad){
+		}
 	
 		public Titular() {
 			super();
