@@ -31,7 +31,7 @@ public class CuentaPrincipal {
 		pin=sc.nextInt();
 		intentos++;
 
-		}while(intentos!=3 && pin!=1235);
+		}while(intentos!=3 && pin!=1237);
 
 		if(pin==1234) {
 			int otraoperacion=1;
