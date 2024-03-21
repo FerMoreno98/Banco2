@@ -76,5 +76,7 @@ public class Titular {
 			apellido=null;
 			telefono=null;
 		}
+	public void saludar(){
+		System.out.println("Hola");
 	}
 
