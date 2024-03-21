@@ -15,7 +15,8 @@ public class Cuenta {
 		super();
 		// TODO Auto-generated constructor stub
 	}
-	
+	public Cuenta(int cvv){
+	}
 	
 	public Cuenta(String numero_cuenta, int saldo, Titular titular) {
 		super();
