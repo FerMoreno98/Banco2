@@ -52,7 +52,7 @@ public class CuentaPrincipal {
 				do {
 				switch (cantidadRetirada) {
 				case 1:
-					System.out.println("Ha retirado 20€");
+					System.out.println("Ha retirado 40€");
 					System.out.println("Su saldo actual es de ");
 					cuenta1.retirar20();
 					System.out.println(cuenta1.getSaldo());
