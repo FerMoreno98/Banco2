@@ -8,9 +8,16 @@ public class Titular {
 		private String nombre;
 		private String apellido;
 		private String telefono;
+
+
+	
 		public Titular() {
 			super();
 			// TODO Auto-generated constructor stub
+		}
+		public Titular(String dni){
+
+			
 		}
 		public Titular(String dni, String nombre, String apellido, String telefono) {
 			super();
