@@ -186,9 +186,9 @@ public class CuentaPrincipal {
 				
 				
 			}
-			System.out.println("Si desea realizar otra operacion pulse 1 si no pulse cualquier otro numero");
+			System.out.println("Si desea realizar otra operacion pulse 2 si no pulse cualquier otro numero");
 			 otraoperacion=sc.nextInt();
-			 if(otraoperacion!=1) {
+			 if(otraoperacion!=2) {
 				 System.out.println("Ha salido con exito del programa");
 			 }
 			 
