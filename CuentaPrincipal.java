@@ -9,7 +9,7 @@ public class CuentaPrincipal {
 		int pin;
 		int intentos=0;
 		int opcion;
-		Titular t1=new Titular("34C","Fernando","Moreno","897653123");
+		Titular t1=new Titular("34C","Javier","Moreno","897653123");
 		Titular t2=new Titular();
 		Titular t3= new Titular();
 		Titular t4= new Titular();
