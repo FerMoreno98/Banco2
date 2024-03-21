@@ -43,7 +43,7 @@ public class CuentaPrincipal {
 	
 				System.out.println("Su saldo actual es de "+ cuenta1.getSaldo());
 				System.out.println("¿Cuanto dinero quieres retirar?");
-				System.out.println("Introduzca el numero 1 para retirar 40€");
+				System.out.println("Introduzca el numero 1 para retirar 45€");
 				System.out.println("Introduzca el numero 2 para retirar 60€");
 				System.out.println("Introduzca el numero 3 para retirar 100€");
 				System.out.println("Introduzca el numero 4 para retirar 200€");
