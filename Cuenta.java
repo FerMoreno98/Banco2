@@ -98,6 +98,8 @@ public class Cuenta {
 
 		saldo=saldo-cantidaddeseada;
 	}
+	public void saludar(){
+		System.out.println("Hola");
 
 			}
 			
