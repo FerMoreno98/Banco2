@@ -10,6 +10,7 @@ public class Titular {
 		private String telefono;
 		private int edad;
 		private String descripcion;
+		private boolean decision;
 		
 
 		public Titular(String dni, int edad){
