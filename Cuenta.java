@@ -8,7 +8,7 @@ public class Cuenta {
 	private String numero_cuenta;
 	private int saldo;
 	private Titular titular;
-	
+	private int cvv;
 	
 
 	public Cuenta() {
