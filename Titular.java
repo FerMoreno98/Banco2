@@ -9,6 +9,7 @@ public class Titular {
 		private String apellido;
 		private String telefono;
 		private int edad;
+		private String descripcion;
 
 
 	
