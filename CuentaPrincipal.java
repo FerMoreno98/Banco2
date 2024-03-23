@@ -3,6 +3,7 @@ package CuentaBancaria;
 import java.util.Scanner;
 
 public class CuentaPrincipal {
+	/*ESTE ES UN PROGRAMA QUE NOS PERMITE TRABAJAR CON LO QUE SE PUEDE LLAMAR, UNA MAQUETA DE UN BANCO, PODREMOS SACAR DINERO, INGRESARLO, AGREGAR TITULARES, QUITARLOS*/
 	static Scanner sc=new Scanner(System.in);
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
